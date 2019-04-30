@@ -1,0 +1,627 @@
+1556656172201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.kWqLQwZUqeLQ"
+1556656172883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556656172884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556656172884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556656174754	Marionette	INFO	Listening on port 54688
+1556656174803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556656501446	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.46IKI2xMl9RD"
+*** You are running in headless mode.
+1556656501930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556656501930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556656501930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556656503303	Marionette	INFO	Listening on port 60977
+1556656503309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556656640095	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.eDVUk7WbezMs"
+*** You are running in headless mode.
+1556656640572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556656640572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556656640573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556656641966	Marionette	INFO	Listening on port 54092
+1556656642072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556656887152	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.CHVroBNrL57I"
+*** You are running in headless mode.
+1556656887600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556656887600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556656887601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556656888913	Marionette	INFO	Listening on port 54623
+1556656888922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556656915869	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.d4Wkm5cZeCYF"
+*** You are running in headless mode.
+1556656916257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556656916258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556656916258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556656917574	Marionette	INFO	Listening on port 56661
+1556656917639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556656994138	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.N0kWjOrzpyth"
+*** You are running in headless mode.
+1556656994531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556656994532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556656994532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556656995866	Marionette	INFO	Listening on port 62127
+1556656995903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556657044605	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.pakGh52lPOjL"
+*** You are running in headless mode.
+1556657045103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556657045103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556657045103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556657046506	Marionette	INFO	Listening on port 49285
+1556657046576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556657149252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.iikcYelQDvEA"
+*** You are running in headless mode.
+1556657149728	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556657149729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556657149729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556657151116	Marionette	INFO	Listening on port 56548
+1556657151124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556657189867	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.Idez31dB0Otm"
+*** You are running in headless mode.
+1556657190343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556657190344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556657190344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556657191703	Marionette	INFO	Listening on port 59416
+1556657191736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556657337248	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.a2CIDMHTdAVJ"
+*** You are running in headless mode.
+1556657337711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556657337711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556657337711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556657339071	Marionette	INFO	Listening on port 53123
+1556657339125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556657400878	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.nOeSXBe61z6h"
+*** You are running in headless mode.
+1556657401374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556657401375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556657401375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556657402754	Marionette	INFO	Listening on port 57627
+1556657402846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556658140027	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.ymQiQAMgQKZx"
+*** You are running in headless mode.
+1556658140497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556658140497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556658140497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556658141828	Marionette	INFO	Listening on port 58721
+1556658141903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556658179684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.7jHK4QRnR4jk"
+*** You are running in headless mode.
+1556658180156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556658180156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556658180156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556658181525	Marionette	INFO	Listening on port 61581
+1556658181549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556658230695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.lwQ4P9kWjSbs"
+*** You are running in headless mode.
+1556658231170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556658231171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556658231171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556658232567	Marionette	INFO	Listening on port 65120
+1556658232655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556658397588	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.2PGOB65OOjdP"
+*** You are running in headless mode.
+1556658398056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556658398056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556658398057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556658399442	Marionette	INFO	Listening on port 60209
+1556658399467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556658437384	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.sMj4o48jnY1i"
+*** You are running in headless mode.
+1556658437856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556658437857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556658437857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556658439242	Marionette	INFO	Listening on port 63000
+1556658439249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556658470301	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.jGDUgHSs2hcc"
+*** You are running in headless mode.
+1556658470802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556658470802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556658470802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556658472225	Marionette	INFO	Listening on port 65375
+1556658472266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556658522967	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.lHMQWhiHIddT"
+*** You are running in headless mode.
+1556658523467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556658523472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556658523472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556658524939	Marionette	INFO	Listening on port 52672
+1556658524958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556658626164	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.BvwMNKLdZfdC"
+*** You are running in headless mode.
+1556658626769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556658626769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556658626769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556658628531	Marionette	INFO	Listening on port 59847
+1556658628550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556658678781	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.s0vpiWc0UbPw"
+*** You are running in headless mode.
+1556658679378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556658679378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556658679378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556658681241	Marionette	INFO	Listening on port 63528
+1556658681281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556658731693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.S8VHc3HRvz16"
+*** You are running in headless mode.
+1556658732328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556658732329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556658732329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556658734093	Marionette	INFO	Listening on port 50843
+1556658734183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556658790999	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.H7CjQaJzfl8V"
+*** You are running in headless mode.
+1556658791668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556658791669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556658791669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556658793576	Marionette	INFO	Listening on port 55014
+1556658794600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  remote-settings/monitor_changes
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556660501081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.7x1gVHy2NPYm"
+*** You are running in headless mode.
+1556660501601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556660501601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556660501601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556660503015	Marionette	INFO	Listening on port 56624
+1556660503034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556660565790	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.i2u48GPzEvwZ"
+*** You are running in headless mode.
+1556660566274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556660566274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556660566275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556660567673	Marionette	INFO	Listening on port 61197
+1556660567745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556660720506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.am4nlBW4Wd0l"
+*** You are running in headless mode.
+1556660720987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556660720987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556660720988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556660722400	Marionette	INFO	Listening on port 55441
+1556660722458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556660800619	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.3f6QkGruDDCf"
+*** You are running in headless mode.
+1556660801111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556660801112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556660801112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556660802517	Marionette	INFO	Listening on port 61049
+1556660802585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556660825606	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.IGrUIKuHHNjZ"
+*** You are running in headless mode.
+1556660826193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556660826193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556660826193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556660827854	Marionette	INFO	Listening on port 62910
+1556660828882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556660870801	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.ajpwZ38Lrv3Q"
+*** You are running in headless mode.
+1556660871402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556660871402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556660871402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556660873227	Marionette	INFO	Listening on port 49741
+1556660873267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1556660879966	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.Dv83wlVjPcPX"
+*** You are running in headless mode.
+1556660880640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556660880641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556660880641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556660882899	Marionette	INFO	Listening on port 50456
+1556660882937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556660927615	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.Bg9NcZfoNXI5"
+*** You are running in headless mode.
+1556660928849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556660928850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556660928850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556660932326	Marionette	INFO	Listening on port 53807
+1556660932354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556660992454	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.q3f0rMX1SY5l"
+*** You are running in headless mode.
+1556660993494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556660993495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556660993495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556660996559	Marionette	INFO	Listening on port 58355
+1556660996668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556661054376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.tK8myoLRloEc"
+*** You are running in headless mode.
+1556661054980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556661054981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556661054981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556661056743	Marionette	INFO	Listening on port 62696
+1556661056848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+1556661196526	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.MXPbqcAgPniS"
+*** You are running in headless mode.
+1556661197295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556661197296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556661197296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556661199202	Marionette	INFO	Listening on port 56131
+1556661199316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1556661689218	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.Gkb85AnGWDQa"
+*** You are running in headless mode.
+1556661690268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556661690269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556661690269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556661693371	Marionette	INFO	Listening on port 57027
+1556661693450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556661724752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.Z130O1qnC3pB"
+*** You are running in headless mode.
+1556661726517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556661726518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556661726518	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556661731949	Marionette	INFO	Listening on port 59469
+1556661732129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556661798003	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.5r4tQ1WzDfpO"
+*** You are running in headless mode.
+1556661798795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556661798795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556661798795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556661801202	Marionette	INFO	Listening on port 64536
+1556661801292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556661820150	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.tTGMACwAP5t8"
+*** You are running in headless mode.
+1556661821914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556661821915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556661821915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556661826806	Marionette	INFO	Listening on port 49718
+1556661826946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1556661995472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.lnX9h33VXTTf"
+*** You are running in headless mode.
+1556661996019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556661996019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556661996019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556661997719	Marionette	INFO	Listening on port 61768
+1556661997758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1556662268672	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.HYe8PwmjhKVG"
+*** You are running in headless mode.
+1556662269077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556662269078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556662269078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556662270550	Marionette	INFO	Listening on port 64241
+1556662270615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5152, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+Exiting due to channel error.
+Exiting due to channel error.
+1556662304364	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mh/mmtfrq490qn1yrb8wm5rk_9c0000gn/T/rust_mozprofile.iw34CkrrQekh"
+*** You are running in headless mode.
+1556662305014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556662305014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556662305014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556662307100	Marionette	INFO	Listening on port 50651
+1556662307128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+JavaScript warning: https://static-ec6.thefancy.com/_static_gen/_ui/js/header/nav_header_search.67ae2aa76407.js, line 94: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5192, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+Exiting due to channel error.
+[Child 5191, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5190, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+Exiting due to channel error.
